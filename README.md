@@ -8,7 +8,8 @@
   1. Нажми на ✏️ **(Edit this file)** в правом верхнем углу.  
   2. Найди таблицу ниже.  
   3. Добавь строку с курсом по примеру.  
-  4. Commit changes (можно без описания).  
+  4. Commit changes (можно без описания).
+       
 Если не получается, то пиши в Telegram: [@anna_n_n](https://t.me/anna_n_n), [@aa_ber](https://t.me/aa_ber), [@aav_hr](https://t.me/aav_hr)  
 
 ---
