@@ -7,10 +7,7 @@
 - Если хочешь добавить свой рекомендосьен пиши в Telegram: @anna_n_n, @aa_ber, @aav_hr или пару таких шагов:  
   1. Нажми на ✏️ **(Edit this file)** в правом верхнем углу. И если появится  "Fork this repository" жмякни на него. 
   3. Добавь свою тулзу прямо в текст.
-  4. <img width="238" height="58" alt="image" src="https://github.com/user-attachments/assets/3ab8f641-0dfe-42e9-aa4c-9a0c31f7707c" />
-Commit changes и сразу без комментария propose changes. И дав раза на щеленые плашки Commit pull request 2 раза  тоже без комментария. 
-       
-Если не получается, то пиши в Telegram: [@anna_n_n](https://t.me/anna_n_n), [@aa_ber](https://t.me/aa_ber), [@aav_hr](https://t.me/aav_hr)  
+  4. Жмякни зеленую плашку "Commit changes" и сразу без комментария "Propose changes". И дав раза на щеленые плашки "Commit pull request" 2 раза без комментария. 
 
 ---
 
